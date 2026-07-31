@@ -112,7 +112,7 @@ See [LICENSE.md](./LICENSE.md) for full details.
 ## 📬 Kontakt / Contact
 
 **MR. EUPHRAT**
-- 📧 mreuphrat@proton.me
+- 📧 mr.euphrat@proton.me
 - 🌐 [archive.org/details/102-dilemmas-im-islam](https://archive.org/details/102-dilemmas-im-islam)
 
 ---
