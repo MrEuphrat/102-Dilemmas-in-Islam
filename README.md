@@ -18,7 +18,7 @@
 
 ### 🇬🇧 English
 
-**102 Dilemmas in Islam** is a source-critical analysis of internal contradictions and historical fractures within the Quran, Hadith, and Sira. The work exposes chronological, logical, and theological dissonances using Islamic primary sources — without apologetic harmonization. Direct response to Shabir Ally's "101 Contradictions in the Bible."
+**102 Dilemmas in Islam** is a source-critical analysis of internal contradictions and historical fractures within the Quran, Hadith, and Sira. The work exposes chronological, logical, and theological dissonances using Islamic primary sources — without apologetic harmonization. Direct response to Shabir Ally's "101 Contradictions in the Bible".
 
 ### 🇫🇷 Français
 
@@ -34,43 +34,6 @@
 
 ---
 
-## 📑 Inhalt / Contents / Contenu / Contenido / 目录
-
-### Block A: Theologie & Prophetologie (#1–#58)
-Allahs Attribute, Mohammeds Autorität, prophetische Irrtumslosigkeit, Offenbarungsmodus
-
-### Block B: Ethik & Recht (#59–#66)
-Zeugniswert der Frau, Apostasie, Sklaverei, Erbrecht, Polygamie
-
-### Block C: Gewalt & Dschihad (#67–#80)
-Kampfverse, Täuschung (Taqiyya), Takfir, Thron vs. Allgegenwart Allahs
-
-### Block D: Wissenschaft & Kosmologie (#81–#86)
-Embryologie (Galen-Parallelen), Sonne im Morast, Berge als Pflöcke, flache Erde
-
-### Block E: Textkritik & Geschichte (#87–#102)
-Sanaa-Palimpsest, Qibla (Petra vs. Mekka), Chronologie, koranische Quellenkritik
-
-### Bonus: Todesstöße (#103–#107)
-Maria-Trinitäts-Irrtum (Sure 5:116), u.a.
-
-### 🛠️ Zusätzliche Abschnitte
-- 🥇 **Top 10 Todesstöße** — Die stärksten Dilemmas auf einen Blick
-- 🧭 **Strategische Einsatz-Matrix** — Welches Dilemma in welcher Debatte?
-- 🛡️ **Präventive Neutralisierung** — Muslimische Standard-Einwände vorweggenommen
-- 📜 **Glossar** — Fachbegriffe erklärt
-- 🔗 **Quellenverweise** — Web-verifizierte Hadith- & Koranbelege
-
----
-
-## 🔬 Methodik / Methodology
-
-Während Shabir Ally 40 Autoren, 1500 Jahre, 3 Kontinente vergleicht, zeigt dieses Werk Widersprüche innerhalb **EINES Buches, EINER Quelle, EINES Propheten, EINER Zeitspanne (23 Jahre).** Keine Harmonisierung. Spannungen bleiben Spannungen.
-
-While Shabir Ally compares 40 authors, 1500 years, 3 continents, this work demonstrates contradictions within **ONE book, ONE source, ONE prophet, ONE timeframe (23 years).** No harmonization. Tensions remain tensions.
-
----
-
 ## 📥 Downloads
 
 | Sprache | PDF | Archive.org | IPFS |
@@ -80,6 +43,28 @@ While Shabir Ally compares 40 authors, 1500 years, 3 continents, this work demon
 | 🇫🇷 Français | [PDF](./102_Dilemmes_dans_lIslam.pdf) | [Link](https://archive.org/details/102-dilemmas-im-islam) | [IPFS](https://ipfs.io/ipfs/bafybeieyg7jvsr4z7tpe7hm3ig43y4vffm672zlv7mtcuhsr7x6cx7h4vm) |
 | 🇪🇸 Español | [PDF](./102_Dilemas_en_el_Islam.pdf) | [Link](https://archive.org/details/102-dilemmas-im-islam) | [IPFS](https://ipfs.io/ipfs/bafybeie5corlxkx2pezeraatuhjsvtvd5thkuwtjams34o7wim2fl52x7e) |
 | 🇨🇳 中文 | [PDF](./102_Dilemmas_in_Islam_CN.pdf) | [Link](https://archive.org/details/102-dilemmas-im-islam) | [IPFS](https://ipfs.io/ipfs/bafybeig4rtf6uubnfa533t6izddykrqbc55d7jsaf6neo23ihklslf5cpi) |
+
+---
+
+## 📑 Inhalt / Contents / Contenu / Contenido / 目录
+
+### Gesamtstruktur — 102 Dilemmas in 5 Blöcken
+
+| Block | Dilemmas | Fokus |
+|-------|----------|-------|
+| **A: Theologie & Prophetologie** | #1–#58 | Allahs Attribute, Mohammeds Autorität, Tawhid vs. Bibel |
+| **B: Ethik & Recht** | #59–#66 | Zeugniswert der Frau, Apostasie, Sklaverei, Erbrecht |
+| **C: Gewalt & Dschihad** | #67–#80 | Kampfverse, Täuschung (Taqiyya), Takfir, Thron vs. Allgegenwart |
+| **D: Wissenschaft & Kosmologie** | #81–#86 | Embryologie (Galen-Parallelen), Sonne im Morast, Berge als Pflöcke, flache Erde |
+| **E: Textkritik & Geschichte** | #87–#102 | Sanaa-Palimpsest, Qibla (Petra vs. Mekka), Chronologie-Fehler |
+| **Bonus: Todesstöße** | #103–#107 | Maria-Trinitäts-Irrtum (Sure 5:116), u.a. |
+
+**Zusätzlich enthalten:**
+- 🥇 **Top 10 Todesstöße** — Die schlagkräftigsten Dilemmas auf einen Blick
+- 🧭 **Strategische Einsatz-Matrix** — Welches Dilemma in welcher Debatte
+- 🛡️ **Präventive Neutralisierung** — Gegenargumente vorab entkräften
+- 📜 **Glossar** — Fachbegriffe erklärt
+- 🔗 **Quellenverweise** — Web-verifiziert, nachprüfbar
 
 ---
 
@@ -95,6 +80,14 @@ While Shabir Ally compares 40 authors, 1500 years, 3 continents, this work demon
 
 ---
 
+## 🔬 Methodik / Methodology
+
+Während Shabir Ally **40 Autoren, 1500 Jahre, 3 Kontinente** vergleicht, zeigt dieses Werk Widersprüche innerhalb **EINES Buches, EINER Quelle, EINES Propheten, EINER Zeitspanne (23 Jahre).**
+
+Keine Harmonisierung. Keine „Kontext"-Fluchtwege. Spannungen bleiben Spannungen.
+
+---
+
 ## ⚖️ Lizenz / License
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](./LICENSE.md)
@@ -103,7 +96,7 @@ While Shabir Ally compares 40 authors, 1500 years, 3 continents, this work demon
 
 Dieses Werk ist weltweit gemeinfrei. Du darfst es kopieren, verändern, verbreiten und aufführen — auch zu kommerziellen Zwecken — ohne um Erlaubnis zu fragen.
 
-This work is dedicated to the public domain worldwide. Copy, modify, distribute, and perform the work — even for commercial purposes — all without asking permission.
+This work is dedicated to the public domain worldwide. Copy, modify, distribute — even commercially — without asking permission.
 
 See [LICENSE.md](./LICENSE.md) for full details.
 
@@ -112,13 +105,10 @@ See [LICENSE.md](./LICENSE.md) for full details.
 ## 📬 Kontakt / Contact
 
 **MR. EUPHRAT**
-- 📧 mr.euphrat@proton.me
+- 📧 mreuphrat@proton.me
 - 🌐 [archive.org/details/102-dilemmas-im-islam](https://archive.org/details/102-dilemmas-im-islam)
 
 ---
 
 > *„Wahrheit braucht keinen Schutz. Sie braucht nur Sichtbarkeit."*
 > *"Truth needs no protection. It only needs visibility."*
-> *« La vérité n'a pas besoin de protection. Elle n'a besoin que de visibilité. »*
-> *"La verdad no necesita protección. Solo necesita visibilidad."*
-> *「真理不需要保护。它只需要可见性。」*
