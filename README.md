@@ -34,18 +34,6 @@
 
 ---
 
-## 📥 Downloads
-
-| Sprache | PDF | Archive.org | IPFS |
-|---------|-----|-------------|------|
-| 🇩🇪 Deutsch | [PDF](./102_Dilemmas_im_Islam.pdf) | [Link](https://archive.org/details/102-dilemmas-im-islam) | [IPFS](https://ipfs.io/ipfs/bafybeifeiznwcqtzarbhxyneq4gvo3isf3idliybjrkzvt6fsvxur6y7ui) |
-| 🇬🇧 English | [PDF](./102_Dilemmas_in_Islam.pdf) | [Link](https://archive.org/details/102-dilemmas-im-islam) | [IPFS](https://ipfs.io/ipfs/bafybeiesz3537oxv5tlft33uyaijdgaa47besdut4i4kzvpo6ikl2rwsb4) |
-| 🇫🇷 Français | [PDF](./102_Dilemmes_dans_lIslam.pdf) | [Link](https://archive.org/details/102-dilemmas-im-islam) | [IPFS](https://ipfs.io/ipfs/bafybeieyg7jvsr4z7tpe7hm3ig43y4vffm672zlv7mtcuhsr7x6cx7h4vm) |
-| 🇪🇸 Español | [PDF](./102_Dilemas_en_el_Islam.pdf) | [Link](https://archive.org/details/102-dilemmas-im-islam) | [IPFS](https://ipfs.io/ipfs/bafybeie5corlxkx2pezeraatuhjsvtvd5thkuwtjams34o7wim2fl52x7e) |
-| 🇨🇳 中文 | [PDF](./102_Dilemmas_in_Islam_CN.pdf) | [Link](https://archive.org/details/102-dilemmas-im-islam) | [IPFS](https://ipfs.io/ipfs/bafybeig4rtf6uubnfa533t6izddykrqbc55d7jsaf6neo23ihklslf5cpi) |
-
----
-
 ## 📑 Inhalt / Contents / Contenu / Contenido / 目录
 
 ### Gesamtstruktur — 102 Dilemmas in 5 Blöcken
@@ -65,6 +53,18 @@
 - 🛡️ **Präventive Neutralisierung** — Gegenargumente vorab entkräften
 - 📜 **Glossar** — Fachbegriffe erklärt
 - 🔗 **Quellenverweise** — Web-verifiziert, nachprüfbar
+
+---
+
+## 📥 Downloads
+
+| Sprache | PDF | Archive.org | IPFS |
+|---------|-----|-------------|------|
+| 🇩🇪 Deutsch | [PDF](./102_Dilemmas_im_Islam_Deutsch_Original.pdf) | [Link](https://archive.org/details/102-dilemmas-im-islam) | [IPFS](https://ipfs.io/ipfs/bafybeifeiznwcqtzarbhxyneq4gvo3isf3idliybjrkzvt6fsvxur6y7ui) |
+| 🇬🇧 English | [PDF](./102_Dilemmas_in_Islam_English_Translation.pdf) | [Link](https://archive.org/details/102-dilemmas-im-islam) | [IPFS](https://ipfs.io/ipfs/bafybeiesz3537oxv5tlft33uyaijdgaa47besdut4i4kzvpo6ikl2rwsb4) |
+| 🇫🇷 Français | [PDF](./102_Dilemas_en_Islam_French_Translation.pdf) | [Link](https://archive.org/details/102-dilemmas-im-islam) | [IPFS](https://ipfs.io/ipfs/bafybeieyg7jvsr4z7tpe7hm3ig43y4vffm672zlv7mtcuhsr7x6cx7h4vm) |
+| 🇪🇸 Español | [PDF](./102_Dilemas_en_Islam_Spanish_Translation.pdf) | [Link](https://archive.org/details/102-dilemmas-im-islam) | [IPFS](https://ipfs.io/ipfs/bafybeie5corlxkx2pezeraatuhjsvtvd5thkuwtjams34o7wim2fl52x7e) |
+| 🇨🇳 中文 | [PDF](./102_Dilemmas_in_Islam_Chinese_Translation.pdf) | [Link](https://archive.org/details/102-dilemmas-im-islam) | [IPFS](https://ipfs.io/ipfs/bafybeig4rtf6uubnfa533t6izddykrqbc55d7jsaf6neo23ihklslf5cpi) |
 
 ---
 
@@ -112,3 +112,6 @@ See [LICENSE.md](./LICENSE.md) for full details.
 
 > *„Wahrheit braucht keinen Schutz. Sie braucht nur Sichtbarkeit."*
 > *"Truth needs no protection. It only needs visibility."*
+> *« La vérité n'a pas besoin de protection. Elle n'a besoin que de visibilité. »*
+> *"La verdad no necesita protección. Solo necesita visibilidad."*
+> *「真理不需要保护。它只需要可见性。」*
