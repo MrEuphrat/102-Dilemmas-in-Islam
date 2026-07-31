@@ -11,7 +11,7 @@ Full license text: https://creativecommons.org/publicdomain/zero/1.0/legalcode
 
 **Author:** MR. EUPHRAT  
 **License:** CC0 1.0 Universal (Public Domain Dedication)  
-**Contact:** mreuphrat@proton.me
+**Contact:** mr.euphrat@proton.me
 
 This work is dedicated to the public domain worldwide under the Creative Commons Zero 1.0 Universal license.
 
