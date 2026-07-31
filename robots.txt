@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mreuphrat.github.io/102-Dilemmas-in-Islam/sitemap.xml
