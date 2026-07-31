@@ -1,6 +1,6 @@
 # 102 Dilemmas in Islam / 102 Dilemmas im Islam
 
-[![Languages](https://img.shields.io/badge/Languages-5-blue)](https://github.com/MrEuphrat/102-Dilemmas-in-Isalm)
+[![Languages](https://img.shields.io/badge/Languages-5-blue)](https://github.com/MrEuphrat/102-Dilemmas-in-Islam)
 [![License](https://img.shields.io/badge/License-CC0_1.0-green)](./LICENSE.md)
 [![Archive.org](https://img.shields.io/badge/Mirror-Archive.org-red)](https://archive.org/details/102-dilemmas-im-islam)
 [![IPFS](https://img.shields.io/badge/Mirror-IPFS-cyan)](https://ipfs.io/ipfs/bafybeifeiznwcqtzarbhxyneq4gvo3isf3idliybjrkzvt6fsvxur6y7ui)
@@ -14,11 +14,11 @@
 
 ### 🇩🇪 Deutsch
 
-**102 Dilemmas im Islam** ist eine quellenkritische Analyse interner Widersprüche und historischer Bruchstellen in Koran, Hadith und Sira. Das Werk durchleuchtet chronologische, logische und theologische Dissonanzen anhand islamischer Primärquellen — ohne apologetische Harmonisierung.
+**102 Dilemmas im Islam** ist eine quellenkritische Analyse interner Widersprüche und historischer Bruchstellen in Koran, Hadith und Sira. Das Werk durchleuchtet chronologische, logische und theologische Dissonanzen anhand islamischer Primärquellen — ohne apologetische Harmonisierung. Direkte Antwort auf Shabir Allys „101 Widersprüche in der Bibel".
 
 ### 🇬🇧 English
 
-**102 Dilemmas in Islam** is a source-critical analysis of internal contradictions and historical fractures within the Quran, Hadith, and Sira. The work exposes chronological, logical, and theological dissonances using Islamic primary sources — without apologetic harmonization.
+**102 Dilemmas in Islam** is a source-critical analysis of internal contradictions and historical fractures within the Quran, Hadith, and Sira. The work exposes chronological, logical, and theological dissonances using Islamic primary sources — without apologetic harmonization. Direct response to Shabir Ally's "101 Contradictions in the Bible."
 
 ### 🇫🇷 Français
 
@@ -31,6 +31,43 @@
 ### 🇨🇳 中文
 
 **《伊斯兰教的102个困境》** 是一部基于原始文献的批判性分析著作，系统揭示古兰经、圣训与先知传记中的内在矛盾与历史断裂。本书严格依据伊斯兰一手资料，呈现其在编年、逻辑与神学层面的不协调——摒弃任何护教式调和。
+
+---
+
+## 📑 Inhalt / Contents / Contenu / Contenido / 目录
+
+### Block A: Theologie & Prophetologie (#1–#58)
+Allahs Attribute, Mohammeds Autorität, prophetische Irrtumslosigkeit, Offenbarungsmodus
+
+### Block B: Ethik & Recht (#59–#66)
+Zeugniswert der Frau, Apostasie, Sklaverei, Erbrecht, Polygamie
+
+### Block C: Gewalt & Dschihad (#67–#80)
+Kampfverse, Täuschung (Taqiyya), Takfir, Thron vs. Allgegenwart Allahs
+
+### Block D: Wissenschaft & Kosmologie (#81–#86)
+Embryologie (Galen-Parallelen), Sonne im Morast, Berge als Pflöcke, flache Erde
+
+### Block E: Textkritik & Geschichte (#87–#102)
+Sanaa-Palimpsest, Qibla (Petra vs. Mekka), Chronologie, koranische Quellenkritik
+
+### Bonus: Todesstöße (#103–#107)
+Maria-Trinitäts-Irrtum (Sure 5:116), u.a.
+
+### 🛠️ Zusätzliche Abschnitte
+- 🥇 **Top 10 Todesstöße** — Die stärksten Dilemmas auf einen Blick
+- 🧭 **Strategische Einsatz-Matrix** — Welches Dilemma in welcher Debatte?
+- 🛡️ **Präventive Neutralisierung** — Muslimische Standard-Einwände vorweggenommen
+- 📜 **Glossar** — Fachbegriffe erklärt
+- 🔗 **Quellenverweise** — Web-verifizierte Hadith- & Koranbelege
+
+---
+
+## 🔬 Methodik / Methodology
+
+Während Shabir Ally 40 Autoren, 1500 Jahre, 3 Kontinente vergleicht, zeigt dieses Werk Widersprüche innerhalb **EINES Buches, EINER Quelle, EINES Propheten, EINER Zeitspanne (23 Jahre).** Keine Harmonisierung. Spannungen bleiben Spannungen.
+
+While Shabir Ally compares 40 authors, 1500 years, 3 continents, this work demonstrates contradictions within **ONE book, ONE source, ONE prophet, ONE timeframe (23 years).** No harmonization. Tensions remain tensions.
 
 ---
 
@@ -54,19 +91,7 @@
 | **IPFS (ipfs.io)** | Dezentral | [ipfs.io/ipfs/...](https://ipfs.io/ipfs/bafybeifeiznwcqtzarbhxyneq4gvo3isf3idliybjrkzvt6fsvxur6y7ui) |
 | **IPFS (Cloudflare)** | Schnell | [cf-ipfs.com/ipfs/...](https://cf-ipfs.com/ipfs/bafybeifeiznwcqtzarbhxyneq4gvo3isf3idliybjrkzvt6fsvxur6y7ui) |
 | **dweb.link** | Protocol Labs | [dweb.link/ipfs/...](https://dweb.link/ipfs/bafybeifeiznwcqtzarbhxyneq4gvo3isf3idliybjrkzvt6fsvxur6y7ui) |
-| **GitHub** | Repo | [github.com/MrEuphrat/102-Dilemmas-in-Isalm](https://github.com/MrEuphrat/102-Dilemmas-in-Isalm) |
-
----
-
-## 📑 Inhalt / Contents / Contenu / Contenido / 目录
-
-Die 102 Dilemmas sind in **5 Kategorien** gegliedert:
-
-1. **Koranische Dilemmas** — Interne Widersprüche im Korantext
-2. **Hadith-Dilemmas** — Widersprüche in der prophetischen Überlieferung
-3. **Theologische Dilemmas** — Logische Bruchstellen der islamischen Dogmatik
-4. **Historische Dilemmas** — Chronologische & archäologische Dissonanzen
-5. **Ethische Dilemmas** — Moralische Spannungen in Primärquellen
+| **GitHub** | Repo | [github.com/MrEuphrat/102-Dilemmas-in-Islam](https://github.com/MrEuphrat/102-Dilemmas-in-Islam) |
 
 ---
 
@@ -77,6 +102,8 @@ Die 102 Dilemmas sind in **5 Kategorien** gegliedert:
 **CC0 1.0 Universal — Public Domain Dedication**
 
 Dieses Werk ist weltweit gemeinfrei. Du darfst es kopieren, verändern, verbreiten und aufführen — auch zu kommerziellen Zwecken — ohne um Erlaubnis zu fragen.
+
+This work is dedicated to the public domain worldwide. Copy, modify, distribute, and perform the work — even for commercial purposes — all without asking permission.
 
 See [LICENSE.md](./LICENSE.md) for full details.
 
@@ -92,3 +119,6 @@ See [LICENSE.md](./LICENSE.md) for full details.
 
 > *„Wahrheit braucht keinen Schutz. Sie braucht nur Sichtbarkeit."*
 > *"Truth needs no protection. It only needs visibility."*
+> *« La vérité n'a pas besoin de protection. Elle n'a besoin que de visibilité. »*
+> *"La verdad no necesita protección. Solo necesita visibilidad."*
+> *「真理不需要保护。它只需要可见性。」*
